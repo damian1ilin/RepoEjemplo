@@ -1,0 +1,9 @@
+Nombre = " Batman "
+Vida = 373
+a
+b
+c
+d
+e
+f
+g
