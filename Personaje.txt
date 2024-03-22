@@ -1,4 +1,4 @@
-Nombre = " Batman "
+Nombre = " Bruce Wayne "
 Vida = 373
 a
 b
