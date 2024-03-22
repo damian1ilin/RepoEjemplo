@@ -1,4 +1,4 @@
-Nombre = " Bruce Wayne "
+Nombre = " carlos Wayne "
 Vida = 373
 a
 b
